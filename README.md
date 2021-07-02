@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with React Proto Tube 😀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About
+
+Simple project created for the purpose of studying React, Redux, Duck Pattern and Tests with Enzyme and Jest.
+
+This project used React and Redux with the duck pattern. Read more about at: https://blog.rocketseat.com.br/estrutura-redux-escalavel-com-ducks/
+Also, all components and modules are covered with tests found in the __tests__ folders.
+Tests were created using Enzyme and Jest. 😁
 
 ## Available Scripts
 
