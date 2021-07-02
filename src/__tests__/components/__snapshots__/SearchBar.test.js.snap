@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing SearchBar component render should render SearchBar component correctly 1`] = `ShallowWrapper {}`;
